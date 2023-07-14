@@ -1,0 +1,126 @@
+<!doctype html>
+<head>
+<title>
+Ssc Board website
+</title>
+</head>
+<body>
+
+<table width = "100%" height = "100%"  border = "0" >
+<tr><td height = "30px" width = "100%"  colspan = "8" bgcolor = "#483D8B"></td></tr>
+<tr><td height = "200px" width = "100%" colspan = "8"><img src = "top.jpg" alt = "top" height = "200px" width = "100%" </td>  </tr>
+<tr>
+<th  height = "20px"  width = "12.5%" colspan ="1"  bgcolor ="#08BE8C"  >HOME</th>
+<th  height = "20px"  width = "12.5%"colspan ="1"  bgcolor = "#08BE8C">ABOUT US</th>
+<th  height = "20px" width = "12.5%"colspan ="1"  bgcolor = "#08BE8C">DIVISIONAL BOARD</th>
+<th  height = "20px" width = "12.5%"colspan ="1"  bgcolor = "#08BE8C">SUBJECTS & SYLLABUS</th>
+<th  height = "20px" width = "12.5%"colspan ="1"  bgcolor = "#08BE8C">SCHOOL/COLLEGS</th>
+<th  height = "20px" width = "12.5%"colspan ="1" bgcolor = "#08BE8C">SHIKSHAN SHANKARAM</th>
+<th  height = "20px" width = "12.5%" colspan ="1"  bgcolor = "#08BE8C">CONTACT US</th>
+<th  height = "20px" width = "12.5%" colspan ="1"  bgcolor = "#08BE8C"></th>
+</tr>
+
+<tr>
+<td height = "60%" width = "80%" colspan = "3"><img src = "main.jpg" alt = "top" height = "60%" width = "90%"</td>
+<td height = "70%" width = "100%" colspan = "5"  align = "justify"> <br><br> The Maharashtra State of Board of Secondary & Higher Secondary Education, Pune 411004 is an Autonomous Body established under the provisions of the Maharashtra Act No. 41 of 1965. The Maharashtra State Board of Secondary & Higher Secondary Education conducts the HSC and SSC Examinations in the State of Maharashtra through its nine Divisional Boards located at Pune,Mumbai, Aurangabad, Nashik, Kolhapur, Amravati, Latur, Nagpur and Ratnagri. The Board conducts Examination twice a year and the number of students appearing for the main examination is around 14 Lacs for HSC and 17 Lac’s SSC, for the Supplementary examination around 6 Lacs students are Expected HSC and SSC together.There are about 21000 schools (SSC) and 7000HSC) Higher Sec.Schools / Jr. Colleges in the entire state.</td>
+</tr>
+
+</table>
+<table width = "100%" height = "100%"  border = "0"  >
+<TR>
+<TD valign = "top" >
+<table width = "100%" height = "70%" border = "0"  >
+<tr><td bgcolor = "#F0F8FF">DOWNLOADS </td></tr>
+<tr><td bgcolor = "#F0F8FF">NOTIFICATION</td></tr>
+<tr><td bgcolor = "#F0F8FF">STATSTICS</td></tr>
+<tr><td bgcolor = "#F0F8FF">SPECIAL STUDENTS</td></tr>
+<tr><td bgcolor = "#F0F8FF">PUBLICATIONS</td></tr>
+<tr><td bgcolor = "#F0F8FF">NEWS & EVENTS</td></tr>
+<tr><td bgcolor = "#F0F8FF">QUICK LINKS</td></tr>
+<tr><td bgcolor = "#F0F8FF">EVALUATION</td></tr>
+</table>
+</TD>
+
+<TD valign= "top">
+<table width = "100%" border ="0" >
+<tr>
+<td  height = "60px" bgcolor = "#1ABC9C">LATEST NOTIFICATION</td>
+</tr>
+<tr>
+<td bgcolor = "A2D9CE" ><marquee height="300px" direction = "up" onmouseover =  "stop();" onmouseout = "start();"  scrollamount = "5" >
+<b>
+इ.१० वी २०२२ परीक्षेची आवेदनपत्रे online सादर करणेसाठी मुदतवाढ देणेबाबत<img src = "emoji.png" height = "30px" width ="30px"><br><br>
+इ.१२वी २०२२ परीक्षेची आवेदनपत्रे online सादर करणेसाठी मुदतवाढ देणेबाबत<img src = "emoji.png" height = "30px" width ="30px"><br><br>
+१० वी /१२वी २०२२ परीक्षा खाजगी विद्यार्थी नावनोंदणी मुदतवाढ बाबत<img src = "emoji.png" height = "30px" width ="30px"><br><br>
+इ.१० वी २०२२ परीक्षेची आवेदनपत्रे online सादर करणेसाठी मुदतवाढ देणेबाबत<img src = "emoji.png" height = "30px" width ="30px"><br><br>
+इ.१२वी २०२२ परीक्षेची आवेदनपत्रे online सादर करणेसाठी मुदतवाढ देणेबाबत<img src = "emoji.png" height = "30px" width ="30px"><br><br>
+सन २०२२- इ.१0 वी परीक्षेची आवेदनपत्रे सादर करावयाच्या तारखाबाबत<img src = "emoji.png" height = "30px" width ="30px"><br><br>
+सन २०२१- इ. १० वी / इ.१२ वी परीक्षेचे परीक्षा शुल्क परतावा करणेबाबत<img src = "emoji.png" height = "30px" width ="30px"><br><br>
+सन २०२२- इ.१२ वी परीक्षेची आवेदनपत्रे सादर करावयाच्या तारखाबाबत<img src = "emoji.png" height = "30px" width ="30px"><br><br>
+सन २१-२२ करीता हयात दाखले सादर करणेबाबत<img src = "emoji.png" height = "30px" width ="30px"><br><br>
+<h4>HSC March-April 2022 Exam. time table (General & Bifocal)*<img src = "emoji.png" height = "30px" width ="30px"><br><br>
+<h4>Circular regarding HSC Mar/Apr 2022 Exam. Time table partial changes.*<img src = "emoji.png" height = "30px" width ="30px"><br><br>
+<h4>HSC Mar-Apr 2022 Exam. revised time table for 7TH& 8th March 22.<img src = "emoji.png" height = "30px" width ="30px"><br><br>
+<h4>HSC/SSC MAR 20222 PRIVATE CANDIDATE EXTENDED DATE<img src = "emoji.png" height = "30px" width ="30px"><br><br>
+<h4>HSC SSC MAR 2022 ABOUT EDIT OPTION<img src = "emoji.png" height = "30px" width ="30px"><br><br>
+<h4>SSC Exam March-2022 Divyang candidates work education subject time table.<img src = "emoji.png" height = "30px" width ="30px"><br><br>
+<h4>Circular regarding HSC/SSC March-April 2022 Exam.time table ua*<img src = "emoji.png" height = "30px" width ="30px"></b><br><br>
+</marquee>
+</td></tr>
+</table>
+
+</TD>
+<TD>
+<table width = "100%" height = "50%" border = "0px" cellspacing="0px">
+
+<tr>
+<td height = "10%" width = "100%" bgcolor ="#A9CCE3"><img src = "emarksheet.png" alt = "emark" width = "50%" height = "30%"  > <font face "arial black" color ="red"><BR><B>online verification of statement of marks & Certification</B><br><br> </td>
+
+<tr><td height = "5%" bgcolor ="#A9CCE3">Maharashtra State Board Of Open Schooling</td></tr>
+<tr><td bgcolor ="#A9CCE3"height = "5%">OTHER BOARD LINKS<br>
+<font face color ="blue"><b>SSC RESULT</b><br><br>
+<b>HSC RESULT</b><BR><br>
+VERIFICATION(HSC) VERIFICATION(SSC)<br><br>
+Form 17(HSC) From17(SSC)<br><br>
+profile(HSC)Profile(SSC)<br><br>
+Attendence(HSC)Attendence(SSC)<br><br>
+Fee Refund(HSC)Fee Refund(SSC)<br><br></font></td>
+</tr>
+<table width = "100%" height = "40%" border ="0" border = "0px" cellspacing="0px" >
+
+<tr >
+<th height = "5%" width = "5%" rowspan = "3" bgcolor ="#08BE8C"></th>
+<th  height = "5%" colspan ="3" bgcolor ="#08BE8C">LOGIN FOR INSTITUTE</th>
+<th height = "5%" width = "5%" rowspan = "3" bgcolor ="#08BE8C"></th>
+</th>
+
+<tr>
+
+<th  height = "5%"width = "5%"bgcolor = "#A2D9CE" ><b>FOR SSC</b></th>
+<th  height = "5%"width = "5%"bgcolor = "#A2D9CE" ><b>FOR HSC</b></th>
+</tr>
+
+<tr>
+<th  height = "5%" width = "5%" bgcolor = "#A2D9CE" ><font face color = "blue">sign in here</font></th>
+<th  height = "5%" width = "5%" bgcolor = "#A2D9CE"><font face color = "blue">sign in here</font></th>
+</tr>
+<tr>
+<th colspan = "5" height = "5%" bgcolor ="#08BE8C"><font face color = "white">The Division wise Help Line Numbers For <BR>HSC Click Here</font></th>
+
+</tr>
+<tr >
+<th BORDER = "1" colspan = "5" height ="50px" bgcolor ="#D4E6F1">Login for Board</td></tr>
+<tr>
+<th colspan = "5" height ="50px" bgcolor ="#D4E6F1">Login for Board</td></tr>
+<tr>
+<th colspan = "5"height ="50px" bgcolor ="#D4E6F1" ></td></tr>
+
+
+</table>
+
+
+</TD>
+</TR>
+
+</table>
+</body>
